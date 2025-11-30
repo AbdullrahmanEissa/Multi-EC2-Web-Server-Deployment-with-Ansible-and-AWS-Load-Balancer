@@ -31,19 +31,20 @@ Automated deployment of a multi-node web server infrastructure on AWS using **An
 │ + PHP  │  │ + PHP  │  │ + PHP  │
 └────────┘  └────────┘  └────────┘
 
+````
+
+**Explanation:** 
+
 Photos Of The Project : 
 
 https://ibb.co/WpqH5YBF
 https://ibb.co/3m0zNz2V
 https://ibb.co/dskj1sKb
 https://ibb.co/Ld0XL6FH
+https://ibb.co/d0Rvk7Kt
+https://ibb.co/hFcF5STd
 
 
-
-
-````
-
-**Explanation:**  
 - **Client Browser** sends requests to the **AWS ALB**.  
 - The **ALB** distributes HTTP requests across the **3 EC2 web servers**.  
 - Each EC2 server runs **Apache2 + PHP**, serving the web content.  
