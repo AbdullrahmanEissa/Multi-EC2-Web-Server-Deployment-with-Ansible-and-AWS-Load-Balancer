@@ -1,4 +1,3 @@
-```markdown
 # Multi-EC2 Web Server Deployment with Ansible and AWS Load Balancer
 
 Automated deployment of a multi-node web server infrastructure on AWS using **Ansible**, with **Apache2 + PHP**, and **load balancing** via an **AWS Application Load Balancer (ALB)**. This project demonstrates infrastructure automation, orchestration, and basic cloud networking.
@@ -31,6 +30,16 @@ Automated deployment of a multi-node web server infrastructure on AWS using **An
 │Apache2 │  │Apache2 │  │Apache2 │
 │ + PHP  │  │ + PHP  │  │ + PHP  │
 └────────┘  └────────┘  └────────┘
+
+Photos Of The Project : 
+
+https://ibb.co/WpqH5YBF
+https://ibb.co/3m0zNz2V
+https://ibb.co/dskj1sKb
+https://ibb.co/Ld0XL6FH
+
+
+
 
 ````
 
