@@ -177,7 +177,3 @@ ansible-playbook apache.yml
 ## License
 
 MIT License – see [LICENSE](LICENSE)
-
-```
-Do you want me to do that next?
-```
