@@ -1,0 +1,8 @@
+[web]
+16.171.175.186
+13.61.32.175
+51.20.37.84
+
+[web:vars]
+ansible_user=ubuntu
+ansible_ssh_private_key_file=/home/eissa/Downloads/key.pem
